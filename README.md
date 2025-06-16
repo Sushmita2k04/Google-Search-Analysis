@@ -13,4 +13,4 @@ Time-based Trends: Examines how interest in the keyword evolved over the years.
 
 Keyword Comparison: Compares related keywords with a visual graph for deeper insights.
 
-This repository is perfect for exploring trends and generating visual insights with minimal effort.
+
